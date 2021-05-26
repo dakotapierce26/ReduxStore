@@ -22,13 +22,13 @@ When trying to run this web page on your local machine, be sure to run ```npm in
 
 ## Usage 
 
-![alt text](https://github.com/dakotapierce26/Book-Search-Engine/blob/main/Assets/Images/EmptyDashboard.png)
+![alt text]()
 
-![alt text](https://github.com/dakotapierce26/Book-Search-Engine/blob/main/Assets/Images/LoginPrompt.png)
+![alt text]()
 
-![alt text](https://github.com/dakotapierce26/Book-Search-Engine/blob/main/Assets/Images/SeachedTitles.png)
+![alt text]()
 
-![alt text](https://github.com/dakotapierce26/Book-Search-Engine/blob/main/Assets/Images/SignupPrompt.png)
+![alt text]()
 
 ## Credits
 

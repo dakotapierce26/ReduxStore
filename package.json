@@ -1,7 +1,6 @@
 {
   "name": "mern-shopping",
   "version": "1.0.0",
-  "description": "",
   "main": "server/server.js",
   "scripts": {
     "start": "if-env NODE_ENV=production && npm run start:prod || npm run start:dev",
@@ -11,12 +10,22 @@
     "seed": "cd server && npm run seed",
     "heroku-postbuild": "cd client && npm run build"
   },
-  "author": "",
+  "author": "Dakota Pierce, Ashton Pierce",
   "license": "ISC",
   "dependencies": {
-    "if-env": "^1.0.4"
+    "if-env": "^1.0.4",
+    "react-redux": "^7.2.4"
   },
   "devDependencies": {
     "concurrently": "^5.1.0"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dakotapierce26/ReduxStore.git"
+  },
+  "bugs": {
+    "url": "https://github.com/dakotapierce26/ReduxStore/issues"
+  },
+  "homepage": "https://github.com/dakotapierce26/ReduxStore#readme",
+  "description": ""
 }

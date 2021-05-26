@@ -24,13 +24,13 @@ When trying to run this web page on your local machine, be sure to run ```npm in
 
 ![alt text](https://github.com/dakotapierce26/ReduxStore/blob/master/assets/images/screen1.jpg)
 
-![alt text](https://github.com/dakotapierce26/ReduxStore/blob/master/assets/images/screen2.jpg)
+![alt text](https://github.com/dakotapierce26/ReduxStore/blob/master/assets/images/screen2.png)
 
 ![alt text](https://github.com/dakotapierce26/ReduxStore/blob/master/assets/images/screen3.jpg)
 
 ![alt text](https://github.com/dakotapierce26/ReduxStore/blob/master/assets/images/screen4.jpg)
 
-![alt text](https://github.com/dakotapierce26/ReduxStore/blob/master/assets/images/screen5.jpg)
+![alt text](https://github.com/dakotapierce26/ReduxStore/blob/master/assets/images/screen5.png)
 
 
 ## Credits
